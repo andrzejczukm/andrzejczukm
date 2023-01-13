@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a computer science student at Warsaw University of Technology, currently pursuing my degree in data science. I have a passion for technology and problem-solving, and have been working on various projects related to data analysis and machine learning. I am always eager to learn and grow, and am excited to share my work and contributions on GitHub. Follow my profile to stay updated on my latest projects and developments.
+
 <!--
 **andrzejczukm/andrzejczukm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
